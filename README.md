@@ -1,6 +1,6 @@
 # Foodie-x_Analysis
 
-The system will analyze the data and perform pre-processing by removing any dupicate or null values and string the mean value in those places.
+The system will analyze the data and perform pre-processing by replacing any duplicate or nulls with the mean value of the column in those places.
 
 This suggests the most popular cuisine in the region and the cuisines that are often offered together frequently. This was done using Apriori algorithm and was found that, NorthIndian Cuisine and Chinese cuisine are popular and are most frequently offered together.
 
